@@ -104,6 +104,22 @@ const deepak = {
 
 ---
 
+## 🎯 My GitHub Journey
+
+<div align="center">
+
+### 📈 Achievement Highlights
+| Metric | Count |
+|--------|-------|
+| 🔥 **Total Contributions** | **890+** |
+| ⚡ **Current Streak** | **366 days** |
+| 📊 **Public Repositories** | **15+** |
+| 🌟 **Total Stars Earned** | **50+** |
+
+</div>
+
+---
+
 ## 🏆 Achievements & Trophies
 
 <div align="center">
@@ -133,25 +149,24 @@ const deepak = {
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaddesurya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaddesurya&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaddesurya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaddesurya&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaddesurya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaddesurya&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Streak" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaddesurya&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaddesurya&theme=tokyo-night&hide_border=true&custom_title=GitHub%20Activity%20Graph&cache_seconds=1800" alt="GitHub Activity Graph" />
   
 </div>
 
 ---
-
 
 ## 📝 Latest Blog Posts
 
@@ -186,16 +201,12 @@ const deepak = {
 
 ---
 
-
----
-
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vadde-surya-3a6233258)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaydeepak103@gmail.com)
-
 
 </div>
 
