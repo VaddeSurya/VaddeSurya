@@ -47,7 +47,6 @@ const deepak = {
 <td width="50%">
 
 ### 🎯 2024 Goals
-- [ ] Master Spring Boot & Microservices
 - [ ] Contribute to 5+ Open Source Projects
 - [ ] Build 3 Full-Stack Applications
 - [ ] Earn AWS Solution Architect Certification
