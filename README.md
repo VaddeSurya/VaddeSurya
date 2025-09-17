@@ -32,8 +32,8 @@ const deepak = {
 <td width="50%">
 
 ### 🚀 Current Projects
-- 🔭 **Nexly** - Latest project showcase
 - 💰 **[Budget Tracker](https://regal-mochi-edb9f5.netlify.app/)** - Financial management app
+- 👩🏻‍💻 **[Nexly](https://nexly-resource-manager.vercel.app/)** - AI resource manager
 - 🌱 Currently mastering **Spring Boot**
 
 ### 💡 Ask Me About
@@ -145,13 +145,6 @@ const deepak = {
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaddesurya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaddesurya&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  
-</div>
 
 <div align="center">
   
